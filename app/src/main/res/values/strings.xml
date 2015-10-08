@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BartFare</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="open">Open Station Info</string>
+    <string name="close">Close Station info </string>
+</resources>
